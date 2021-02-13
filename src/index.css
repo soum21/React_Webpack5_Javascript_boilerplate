@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: transparent !important;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito'), local('Nunito-Regular'),
+    url(assests/font/Nunito-Black.ttf) format('truetype'),
+    url(assests/font/Nunito-BlackItalic.ttf) format('truetype'),
+    url(assests/font/Nunito-Bold.ttf) format('truetype'),
+    url(assests/font/Nunito-BoldItalic.ttf) format('truetype'),
+    url(assests/font/Nunito-ExtraBold.ttf) format('truetype'),
+    url(assests/font/Nunito-ExtraBoldItalic.ttf) format('truetype'),
+    url(assests/font/Nunito-ExtraLight.ttf) format('truetype'),
+    url(assests/font/Nunito-ExtraLightItalic.ttf) format('truetype'),
+    url(assests/font/Nunito-Italic.ttf) format('truetype'),
+    url(assests/font/Nunito-Light.ttf) format('truetype'),
+    url(assests/font/Nunito-LightItalic.ttf) format('truetype'),
+    url(assests/font/Nunito-Regular.ttf) format('truetype'),
+    url(assests/font/Nunito-Regular.ttf) format('truetype'),
+    url(assests/font/Nunito-SemiBold.ttf) format('truetype'),
+    url(assests/font/Nunito-SemiBoldItalic.ttf) format('truetype');
+}

@@ -1,0 +1,56 @@
+.logoContainer {
+  max-width: 100%;
+  left: 15px;
+  background-size: contain;
+}
+
+.navLinkTitle {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0 10px;
+}
+
+.main-nav {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0 10px;
+  color: #fff !important;
+}
+
+.main-nav:hover {
+  font-size: 16px;
+  font-weight: 600;
+  padding: 0 10px;
+  color: rgb(109, 200, 228) !important;
+}
+
+.main-nav-active {
+  font-size: 16px;
+  font-weight: 600;
+  padding: 0 10px;
+  color: rgb(109, 200, 228) !important;
+}
+
+.searchIcon {
+  padding-right: 20px;
+}
+
+.container {
+  background: rgb(28, 21, 138);
+}
+
+.navbar {
+  position: absolute;
+  background: rgb(28, 21, 138);
+}
+
+.barIcon {
+  color: #fff;
+  font-size: 30px !important;
+  font-weight: 600;
+}
+.closeIcon {
+  color: #fff;
+  font-size: 30px !important;
+  font-weight: 600;
+}
